@@ -1,0 +1,8 @@
+.Banner {
+    background-color: black ;
+    text-align: center;
+}
+
+.Banner img {
+    max-width: 100%;
+}
